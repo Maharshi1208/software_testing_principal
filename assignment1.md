@@ -55,3 +55,18 @@ c:- Are there any specific areas where employees deviate from the standard proce
 a:- What features would you like to see in the new system to improve the onboarding process?
 b:- Are there any existing tools or software that you currently use for onboarding?
 c:- What is your budget and timeline for implementing the new system?
+
+#Follow-Up Clarification Questions:
+1 Employee Onboarding:
+a:- Are there any legal or compliance requirements that need to be considered during the onboarding process?
+b:- How many new employees do you typically onboard in a year?
+
+2 Client Onboarding:
+a:- Are there any specific customer demographics that we should consider when designing the onboarding flow?
+b:- Do you have any existing documentation or training materials for the current onboarding process?
+
+3 System Requirements:
+a:- Do you have any preferences for the technology stack (e.g., web-based, mobile app)?
+b:- Are there any specific integrations required (e.g., payment processing, CRM)?
+
+
