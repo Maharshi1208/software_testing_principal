@@ -39,3 +39,19 @@ c:- Ensure the process is user-friendly and easy for customers to follow.
 a:- Develop a system that is easy for employees to use.
 b:- Ensure the system is intuitive for customers.
 c:- Provide clear instructions and guidance throughout the onboarding process. 
+
+#Questions for the Client:
+1 Employee Onboarding:
+a:- What specific steps are currently involved in the employee onboarding process?
+b:- Are there any particular pain points or bottlenecks in the current process?
+c:- What is the ideal timeframe for onboarding new employees?
+
+2 Client Onboarding:
+a:- Can you describe the current client onboarding process in detail?
+b:- What are the main challenges customers face during onboarding?
+c:- Are there any specific areas where employees deviate from the standard process?
+
+3 System Requirements:
+a:- What features would you like to see in the new system to improve the onboarding process?
+b:- Are there any existing tools or software that you currently use for onboarding?
+c:- What is your budget and timeline for implementing the new system?
