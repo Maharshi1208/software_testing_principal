@@ -23,3 +23,19 @@ The creation of a paper outlining the arrangements for the first customer meetin
 2-Questions to clarify the client's intent
 3-Follow-up clarification questions
 4-Preliminary tasks for fulfilling the requirements
+
+#Broken-Down Requirements
+1 Employee Onboarding Process:
+a:-Simplify the onboarding process for new employees.
+b:-Standardize the training process to reduce the onboarding time from 3 months to a more reasonable timeframe.
+c:-Ensure consistency in training across all employees.
+
+2 Client Onboarding Process:
+a:- Streamline the onboarding process for new clients.
+b:- Create a standardized flow that all employees must follow.
+c:- Ensure the process is user-friendly and easy for customers to follow.
+
+3 System Usability:
+a:- Develop a system that is easy for employees to use.
+b:- Ensure the system is intuitive for customers.
+c:- Provide clear instructions and guidance throughout the onboarding process. 
