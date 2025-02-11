@@ -16,3 +16,10 @@ The inconsistency and complexity of the onboarding procedure for new clients irr
 
 The onboarding process is confusing, which irritates customers.
 
+#3 Outcome
+The creation of a paper outlining the arrangements for the first customer meeting is the result of this task. This document ought to contain:
+
+1-Broken-down requirements
+2-Questions to clarify the client's intent
+3-Follow-up clarification questions
+4-Preliminary tasks for fulfilling the requirements
