@@ -89,3 +89,9 @@ b:- Gather feedback and make necessary adjustments.
 5 Documentation:
 a:- Create user manuals and training materials for the new system.
 b:- Document the new onboarding process for future reference.
+
+#Conclusion:
+In this project, we looked at the difficulties a pet daycare faces when it comes to onboarding new staff and clients. We have set the stage for a fruitful first client encounter by decomposing the requirements, crafting focused questions, and laying out preparatory tasks. Simplifying client and employee onboarding is the aim in order to guarantee uniformity, effectiveness, and a satisfying experience for all parties involved.
+
+We illustrated the value of planning and organisation in software engineering with this experiment. We can make sure that the finished product satisfies the client's needs and expectations by precisely establishing assumptions, verifying them with the client, and segmenting work into manageable chunks.
+
