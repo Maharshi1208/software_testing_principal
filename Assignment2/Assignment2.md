@@ -80,3 +80,25 @@ e) User Interface
 1-The system should provide a simple web-based interface for developers to interact with the system.
 2-The interface should display categorized data, balance scores, and allow feedback submission.
 
+
+#Assumptions
+1. Key Assumptions
+a) Data Availability
+1-The client has access to publicly available data sources for scraping.
+2-The data sources are reliable and provide sufficient training data.
+
+b) Balanced Data Definition
+1-The client has a clear definition of what constitutes "balanced data."
+2-The definition includes metrics such as equal representation of topics, absence of demographic bias, and diversity in data sources.
+
+c) Infrastructure
+1-The client has the necessary infrastructure (e.g., servers, storage) to support the scraping and categorization process.
+2-The client’s infrastructure is compatible with Python-based tools and libraries.
+
+d) Legal Compliance
+1-The client has obtained necessary permissions to scrape data from publicly available sources.
+2-The scraping process complies with data privacy laws (e.g., GDPR, CCPA).
+
+e) Developer Expertise
+1-The client’s developers have the necessary skills to use the system (e.g., Python programming, database querying).
+2-The client will provide training if required.
