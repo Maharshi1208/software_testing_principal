@@ -102,3 +102,38 @@ d) Legal Compliance
 e) Developer Expertise
 1-The client’s developers have the necessary skills to use the system (e.g., Python programming, database querying).
 2-The client will provide training if required.
+
+#Validation Plan
+1. Validation of Requirements
+a) Review Requirements with the Client
+1-Present the gathered requirements to the client for feedback.
+2-Ensure the requirements align with the client’s expectations and goals.
+
+b) Prototype Demonstration
+1-Develop a prototype of the system (e.g., a basic web scraper and categorization module).
+2-Demonstrate the prototype to the client to validate functionality.
+
+c) User Acceptance Testing (UAT)
+1-Conduct UAT with the client’s developers to ensure the system meets their needs.
+2-Collect feedback and make necessary adjustments.
+
+2. Validation of Assumptions
+a) Data Source Validation
+1-Discuss with the client to confirm access to data sources.
+2-Test the scraping process on a small dataset to ensure data quality.
+
+b) Balanced Data Validation
+1-Work with the client to define "balanced data" and agree on metrics.
+2-Test the bias detection module on sample datasets to ensure accuracy.
+
+c) Infrastructure Validation
+1-Review the client’s infrastructure to ensure compatibility with the proposed system.
+2-Conduct a pilot test to verify system performance.
+
+d) Legal Compliance Validation
+1- Consult with legal experts to ensure the scraping process complies with data privacy laws.
+2-Document all legal considerations and share them with the client.
+
+e) Developer Expertise Validation
+1-Assess the skill level of the client’s developers.
+2-Provide training or documentation if required.
